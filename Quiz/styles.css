@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2{
+    margin-top: 100px;
+}
+button{
+    font-size: medium;
+    padding: 10px;
+    margin: 10px;
+    border-color: blue;
+}
